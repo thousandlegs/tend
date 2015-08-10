@@ -1,0 +1,6 @@
+#!/bin/dash
+# -*- shell-script -*- 
+
+# TODO (sat 8/10/15): Make a test that just runs a simple Node server
+# on a given port, so that we can check connectivity separate from
+# gameplay.
